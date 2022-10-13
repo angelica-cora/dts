@@ -1,2 +1,2 @@
-# guacamole
-doritos pancho villa
+# dts
+dts tareas ayudantia
